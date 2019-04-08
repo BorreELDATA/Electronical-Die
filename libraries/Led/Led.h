@@ -12,9 +12,9 @@
 class Led {
   public:
     Led();
-	Led(char pin);
-	void setPinNumber(char pin);
-	char getPinNumber();
+    Led(char pin);
+    void setPinNumber(char pin);
+    char getPinNumber();
     void setState(char state);
     boolean isOn();
   private:
