@@ -1,0 +1,6 @@
+Die	KEYWORD1
+roll	KEYWORD2
+toggleCheating	KEYWORD2
+isCheating	KEYWORD2
+hasThrown	KEYWORD2
+getResult	KEYWORD2

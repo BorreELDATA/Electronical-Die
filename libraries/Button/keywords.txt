@@ -1,0 +1,8 @@
+Button	KEYWORD1
+setPinNumber	KEYWORD2
+updateCurrentState	KEYWORD2
+updatePreviousState	KEYWORD2
+update	KEYWORD2
+isPressed	KEYWORD2
+hasSwitchedState	KEYWORD2
+getPin	KEYWORD2

@@ -1,0 +1,5 @@
+Led	KEYWORD1
+setPinNumber	KEYWORD2
+getPinNumber	KEYWORD2
+setState	KEYWORD2
+isOn	KEYWORD2
