@@ -1,5 +1,5 @@
 /**
- * Creator: Børre A. Opedal Lunde
+ * Creator: BÃ¸rre A. Opedal Lunde
  * Date created (yyyy/mm/dd): 2019/02/20
  * Date updated (yyyy/mm/dd): 2019/04/01
  */
@@ -11,18 +11,18 @@
 
 class Die {
   public:
-	Die();
-	void roll();
-	void toggleCheating();
-	boolean isCheating();
+    Die();
+    void roll();
+    void toggleCheating();
+    boolean isCheating();
     boolean hasThrown();
     byte getResult();
   private:
     void rollFairly();
-	void rollUnfairly();
+    void rollUnfairly();
     char _result;
     boolean _thrown;
-	boolean _cheat;
+    boolean _cheat;
 };
 
 #endif
